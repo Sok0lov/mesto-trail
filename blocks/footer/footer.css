@@ -1,0 +1,10 @@
+.footer {
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+@media (max-width: 767px) {
+    .footer {
+        margin-bottom: 36px;
+    }
+}
