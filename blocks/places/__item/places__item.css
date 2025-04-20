@@ -1,8 +1,0 @@
-.places__item {
-    background: #FFFFFF;
-    border-radius: 10px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
